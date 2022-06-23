@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @VarunKashyap96.
-- 👀 I’m interested in MEAN/MERN Stack development.
-- 🌱 I’m currently learning angular and react js.
+- 👀 I’m a Full Stack developer.
+- Senior Software Engineer at Grazitti Interactive for Online Communities | Khoros(Lithium) | Higherlogic | Zendesk | Vanilla Forums | Marketo | Data Migration Specialist | Salesforce | MERN Stack & Integration Expert | Power BI
 - 📫 varunkashyap96@gmail.com | +91-9988730873
